@@ -1,3 +1,3 @@
-## 直近7日間の歩数
+## Steps over the last 7 days
 
-![直近7日間の歩数](https://health-data-pipeline-503813.web.app/public/steps.svg)
+![Steps over the last 7 days](https://health-data-pipeline-503813.web.app/public/steps.svg)
