@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="562" height="242" viewBox="0 0 562 242" role="img" aria-labelledby="title description">
+<title id="title">Daily steps</title>
+<desc id="description">Daily steps from May 15 to November 14, 2026, Japan time. Each column is a week starting on Sunday. Green shows step activity. Gray indicates zero steps and blank cells indicate missing data.</desc>
+<style>svg {font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.card {fill:#0d1117;stroke:#3d444d}.title {fill:#f0f6fc;font-size:18px;font-weight:600}.label {fill:#9198a1;font-size:11px}.zero {fill:#212830}.g1 {fill:#0e4429}.g2 {fill:#006d32}.g3 {fill:#26a641}.g4 {fill:#39d353}</style>
+<rect class="card" x=".5" y=".5" width="561" height="241" rx="8"/>
+<text x="18" y="29" class="title">Daily steps</text>
+<text x="18" y="48" class="label">May 15 – Nov 14, 2026 · JST</text>
+<text x="22" y="95" class="label">Sun</text>
+<text x="22" y="113" class="label">Mon</text>
+<text x="22" y="131" class="label">Tue</text>
+<text x="22" y="149" class="label">Wed</text>
+<text x="22" y="167" class="label">Thu</text>
+<text x="22" y="185" class="label">Fri</text>
+<text x="22" y="203" class="label">Sat</text>
+<text x="62" y="74" class="label">May</text>
+<rect x="62" y="174" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="62" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="80" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="80" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="80" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="80" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="80" y="156" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="80" y="174" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="80" y="192" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="98" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="98" y="102" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="98" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="98" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="98" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="98" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="98" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="116" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<text x="116" y="74" class="label">Jun</text>
+<rect x="116" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="116" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="116" y="138" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="116" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="116" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="116" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="134" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="134" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="134" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="134" y="138" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="134" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="134" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="134" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="152" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="152" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="152" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="152" y="138" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="152" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="152" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="152" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="170" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="170" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="170" y="120" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="170" y="138" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="170" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="170" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="170" y="192" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="188" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="188" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="188" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<text x="188" y="74" class="label">Jul</text>
+<rect x="188" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="188" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="188" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="188" y="192" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="206" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="206" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="206" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="206" y="138" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="206" y="156" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="206" y="174" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="206" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="224" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="224" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="224" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="224" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="224" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="224" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="224" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="242" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="242" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="242" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="242" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="242" y="156" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="242" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="242" y="192" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="260" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="260" y="102" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="260" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="260" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="260" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="260" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<text x="260" y="74" class="label">Aug</text>
+<rect x="260" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="278" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="278" y="102" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="278" y="120" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="278" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="278" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="278" y="174" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="278" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="296" y="84" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="296" y="102" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="296" y="120" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="296" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="296" y="156" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="296" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="296" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="314" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="314" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="314" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="314" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="314" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="314" y="174" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="314" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="332" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="332" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="332" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="332" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="332" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="332" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="332" y="192" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="350" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="350" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<text x="350" y="74" class="label">Sep</text>
+<rect x="350" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="350" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="350" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="350" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="350" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="368" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="368" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="368" y="120" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="368" y="138" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="368" y="156" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="368" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="368" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="386" y="84" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="386" y="102" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="386" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="386" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="386" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="386" y="174" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="386" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="404" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="404" y="102" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="404" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="404" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="404" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="404" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="404" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="422" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="422" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="422" y="120" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="422" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<text x="422" y="74" class="label">Oct</text>
+<rect x="422" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="422" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="422" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="440" y="84" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="440" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="440" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="440" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="440" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="440" y="174" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="440" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="458" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="458" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="458" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="458" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="458" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="458" y="174" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="458" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="476" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="476" y="102" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="476" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="476" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="476" y="156" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="476" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="476" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="494" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="494" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="494" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="494" y="138" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="494" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="494" y="174" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="494" y="192" width="14" height="14" rx="2.5" class="g3"/>
+<text x="512" y="74" class="label">Nov</text>
+<rect x="512" y="84" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="512" y="102" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="512" y="120" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="512" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="512" y="156" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="512" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="512" y="192" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="530" y="84" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="530" y="102" width="14" height="14" rx="2.5" class="g3"/>
+<rect x="530" y="120" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="530" y="138" width="14" height="14" rx="2.5" class="g1"/>
+<rect x="530" y="156" width="14" height="14" rx="2.5" class="g2"/>
+<rect x="530" y="174" width="14" height="14" rx="2.5" class="g4"/>
+<rect x="530" y="192" width="14" height="14" rx="2.5" class="g4"/>
+<text x="420" y="222" class="label">Less</text>
+<rect x="450" y="211" width="13" height="13" rx="2.5" class="g1"/>
+<rect x="467" y="211" width="13" height="13" rx="2.5" class="g2"/>
+<rect x="484" y="211" width="13" height="13" rx="2.5" class="g3"/>
+<rect x="501" y="211" width="13" height="13" rx="2.5" class="g4"/>
+<text x="521" y="222" class="label">More</text>
+</svg>
